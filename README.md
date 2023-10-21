@@ -1,4 +1,4 @@
 # FirstDemo
 This is my starting for github
 <br>
-Author  ;- Mr Sameer Ahmad Khanday
+Author  ;- Mr Sameer (ahmad)
